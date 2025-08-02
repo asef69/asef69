@@ -1,22 +1,27 @@
-<h1 align="center">Hi 👋, I'm Kazi Asef Kabir</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh and currently in learning phase</h3>
+### Hi there 👋, Hello I am Asef Kabir
+#### I am currently studying at Bangladesh University of Engineering and Technology
+**I am passionate about coding and I am still learning about the development. I want to trade my workspace to AI/ML.**
 
-- 🔭 I’m currently working on [iGraphics project](https://github.com/asef69/iGraphics-Asef)
+Skills: *C / C++ / JAVA / PYTHON / HTML / CSS / JS*
 
-- 🌱 I’m currently learning **DSA and OOPS**
+- 🔭 I’m currently working on Web Development with Django 
+- 🌱 I’m currently learning Django 
+- 👯 I’m looking to collaborate on Web Dev Projects 
 
-- 💬 Ask me about **C++,JAVA**
 
-- 📫 How to reach me **asefkabir97@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asef69)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/asef-kabir-9bb371219//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/avoid._myself//)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/asef kabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asef kabir" height="30" width="40" /></a>
-<a href="https://instagram.com/avoi._myself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avoi._myself" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/asef97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asef97" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kabir70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kabir70" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asefkabir97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asefkabir97" height="30" width="40" /></a>
-</p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=asef69)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asef69)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asef69&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/asef69/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/asef69)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=asef69)  
+

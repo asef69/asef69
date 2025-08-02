@@ -21,7 +21,6 @@ Skills: *C / C++ / JAVA / PYTHON / HTML / CSS / JS*
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/asef69/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/asef69)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=asef69)  
 

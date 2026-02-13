@@ -3,7 +3,6 @@
 I'm currently pursuing  my undergraduate degree in **Computer Science** from **BUET**  and currently working as a backend software developer independent projects.
 
 - 🧩 I enjoy designing efficient solutions for development problems. I am currently active in learning ***Machine Learning***  and ***Artificial Intelligence***  
-- 👩🏻‍💻 I am currently learning the ins and outs of ***AWS***, ***Designing Distributed Systems***, and ***Developing Data-Driven Solutions***.
 - 🔬 I am also interested in research projects in the field of ***Machine Learning Models*** as I am a beginner .
 
 > ***Feel free to reach out to me on [***linkedin***](https://www.linkedin.com/in/asef-kabir-9bb371219/) or [***mail***](asefkabir97@gmail.com) or [***mail***](2305084@ugrad.cse.buet.ac.bd) if you have similar interests and want to discuss ideas or collaborate.***

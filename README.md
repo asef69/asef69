@@ -167,6 +167,14 @@ Desktop app for building and simulating logic circuits. My BUET 1-2 term project
   <img src="https://streak-stats.demolab.com?user=asef69&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asef69/asef69/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asef69/asef69/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/asef69/asef69/output/github-snake.svg" />
+  </picture>
+</p>
+
 ## 📚 Academic work
 
 <p align="center">

@@ -6,7 +6,7 @@
 <!-- Typing tagline -->
 <p align="center">
   <a href="https://github.com/asef69">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+REST+APIs+with+Django%2C+FastAPI+%26+Spring+Boot;Learning+Machine+Learning+%26+AI;Hackathon+builder+%F0%9F%8F%86;Always+up+for+a+new+project+%F0%9F%9A%80" alt="Typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+APIs+with+Django%2C+FastAPI+%26+Spring+Boot;Learning+Machine+Learning+%26+AI;Hackathon+builder+%F0%9F%8F%86;Always+up+for+a+new+project+%F0%9F%9A%80" alt="Typing tagline" />
   </a>
 </p>
 
